@@ -1,0 +1,6 @@
+ffmpeg-20180526-63c4a4b-win64-static/
+speech_data/
+test_files/
+*.html
+*.wav
+config.py
